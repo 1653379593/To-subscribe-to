@@ -1,0 +1,15 @@
+
+
+https://MjgyNjA3NzI4OTUyNjA2NzIwOjgyNDBhOTI0LWJjNDMtNDRhMy1iNzU2LTc5OGZhODcwY2JjMEBhNC5hcC5mYXN0cXZwbi5jb206Mjk5ODA
+
+
+
+http=a4.ap.fastqvpn.com:29980, username=282607728952606720, password=5dfecb55-14f4-4aae-81b7-13c98093131d, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=yijianlian1
+
+http=a3.ap.fastqvpn.com:29980, username=282607728952606720, password=5dfecb55-14f4-4aae-81b7-13c98093131d, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=yijianlian2
+http=a2.ap.fastqvpn.com:29980, username=282607728952606720, password=5dfecb55-14f4-4aae-81b7-13c98093131d, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=yijianlian3
+
+http=a1.ap.fastqvpn.com:29980, username=282607728952606720, password=5dfecb55-14f4-4aae-81b7-13c98093131d, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=yijianlian4
+
+
+
